@@ -11,9 +11,9 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center"
         android:padding="10dp"
         android:text="To Do List App"
+        android:gravity="center"
         android:textColor="@color/black"
         android:textSize="26dp" />
     <!--edittext untuk menambahkan item baru ke dalam listview to do list-->
